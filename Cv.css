@@ -1,0 +1,32 @@
+body{
+    background-image:url(Sahil.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cv{
+    background-color: rgba(38, 122, 205, 0.5) !important;
+
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(208, 215, 213, 0.893);
+    height:770px;
+}
+
+.progress-bar{
+    background-color: #121df3;
+    font-weight: bold;
+}
+
+.h2{
+    font-size:x-large;
+}
+
+.h5{
+    font-size: small;
+}
+
+.height{
+    height:30px;
+    margin-left: 5px;
+}
